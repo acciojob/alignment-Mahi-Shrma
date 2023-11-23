@@ -2,8 +2,13 @@
 h1{
 	text-align:center;
 }
+.middle{
+	padding:1px;
+	border:1px solid black;
+}
 td{
 	padding:1px;
+	border:1px solid black;
 	height:20px;
 }
 
